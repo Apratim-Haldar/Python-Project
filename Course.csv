@@ -1,0 +1,6 @@
+﻿Course ID,Course Name,Marks obtained
+C001,Python Programming,"{CSE2201:95,CSE2101:73}"
+C002,Physics,{CSE2202:65-CSE2101:78-ECE2201:34-ECE2202:95}
+C003,Mathematics,"{'CSE2202': 96, 'ECE2202': 90, 'ECE2201': 85, 'ECE2202':80}"
+C004,English,"{'CSE2202': 92, 'ECE2202': 85, 'ECE2201': 80, 'ECE2202':82}"
+C005,Biology,"{'CSE2202': 85, 'ECE2202': 90, 'ECE2201': 80, 'ECE2202':75}"
